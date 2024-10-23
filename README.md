@@ -11,7 +11,7 @@ A identificação e separação adequada de resíduos é uma etapa essencial no 
 O VGGNet é uma rede neural convolucional profunda, com várias camadas empilhadas, que se destaca em tarefas de classificação de imagens. Utilizei esta arquitetura devido à sua capacidade de capturar padrões espaciais complexos nas imagens de lixo, melhorando a precisão na distinção entre materiais recicláveis e orgânicos.
 
 - **VGGNet**: A versão utilizada contém várias camadas convolucionais seguidas por camadas totalmente conectadas que ajudam a rede a aprender características mais abstratas dos dados.
-- **Otimizador**: Adam
+- **Otimizador**: Nadam
 - **Função de perda**: Categorical Crossentropy
 - **Métricas**: Acurácia
 
